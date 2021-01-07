@@ -1,0 +1,9 @@
+class myclass
+{
+	main()
+	{
+		int x=10;
+		int suma = x+100;
+		printf("La suma de {0}+100 es: {1}",x,suma);
+	}
+}
